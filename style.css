@@ -1,0 +1,29 @@
+body {
+    background-color: #fff
+}
+
+#console {
+    font-family: courier, monospace;
+    background-color: #000;
+    opacity: .75;
+    color: #fff;
+    width:1000px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px;
+    font-size:14px;
+    border-radius: 5px;
+}
+a {
+    color: #0bc;
+    text-decoration: none;
+}
+#a {
+    color: #0f0;
+}
+#c {
+    color: #0bc;
+}
+#b {
+    color: #ff0096;
+}
