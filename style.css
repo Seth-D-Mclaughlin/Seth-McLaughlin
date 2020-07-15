@@ -3,7 +3,9 @@
 body {
     background-color: #fff
 }
-
+.row{
+    padding:20px;
+}
 #console {
     font-family: courier, monospace;
     background-color: #000;
@@ -30,6 +32,20 @@ body {
     font-size:14px;
     border-radius: 5px;
 }
+#console1 {
+    font-family: courier, monospace;
+    background-color: #000;
+    color: #fff;
+    width:1000px;
+    margin-top: 50px;
+
+    margin-left:auto;
+    margin-right:auto;
+    
+    font-size:14px;
+    border-radius: 5px;
+}
+
 a {
     color: #0bc;
     text-decoration: none;
@@ -42,4 +58,29 @@ a {
 }
 #b {
     color: #ff0096;
+}
+
+#about{
+    font-size: 50px;
+}
+
+#id{
+    padding-top: 10px;
+}
+
+#console0 h2{
+    padding: 20px;
+}
+#console0 img{
+    padding: 20px;
+    opacity: 1;
+}
+
+.fa{
+    font-size: 20px;
+}
+#socialbot{
+    font-size: 30px;
+    
+    margin-left: 25px;
 }
